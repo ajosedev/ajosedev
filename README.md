@@ -1,6 +1,10 @@
 # Heya 👋
 
-I'm a Software Engineer with a passion for the frontend. I don't do much on my public GitHub, but I occasionally make small side projects or write snippets on CodePen.
+I'm a Software Engineer with a passion for the frontend. Currently deep diving into the design system world.
+
+I enjoy building interactive and interesting products to innovate, inform, assist, unite, solve, and so much more.
+
+I don't do much on my public GitHub, but I occasionally make small side projects or write snippets on CodePen.
 
 [https://ajose.dev](https://ajose.dev)
 
